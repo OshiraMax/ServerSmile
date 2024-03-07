@@ -1,0 +1,13 @@
+node_modules/
+
+dist/
+
+test/
+
+README.md 
+
+#Scripts and summary
+
+ServerSmile.md
+ServerSmileCode.md
+summary.py
